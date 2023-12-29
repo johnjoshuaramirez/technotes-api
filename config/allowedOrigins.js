@@ -1,5 +1,5 @@
 const allowedOrigins = [
-  "https://technotes-ebso.onrender.com",
+  "https://technotes-ebso.onrender.com/auth",
 ];
 
 module.exports = allowedOrigins;
