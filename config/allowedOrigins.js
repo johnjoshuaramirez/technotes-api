@@ -1,6 +1,3 @@
-const allowedOrigins = [
-  "https://technotes-ebso.onrender.com",
-  "https://technotes.onrender.com",
-];
+const allowedOrigins = ["https://technotes-api-wrbs.onrender.com"];
 
 module.exports = allowedOrigins;
